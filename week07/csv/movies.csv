@@ -1,0 +1,37 @@
+"user_name","movie_name",rating
+"Sam","Okja",NULL
+"Sam","Lady Macbeth",3
+"Sam","The Lost City of Z",5
+"Sam","A Ghost Story",4
+"Sam","The Big Sick",5
+"Sam","Baby Driver",2
+"Jordan","Okja",5
+"Jordan","Lady Macbeth",4
+"Jordan","The Lost City of Z",3
+"Jordan","A Ghost Story",2
+"Jordan","The Big Sick",5
+"Jordan","Baby Driver",NULL
+"Mina","Okja",5
+"Mina","Lady Macbeth",4
+"Mina","The Lost City of Z",5
+"Mina","A Ghost Story",3
+"Mina","The Big Sick",NULL
+"Mina","Baby Driver",3
+"John","Okja",3
+"John","Lady Macbeth",NULL
+"John","The Lost City of Z",NULL
+"John","A Ghost Story",2
+"John","The Big Sick",3
+"John","Baby Driver",NULL
+"Riley","Okja",4
+"Riley","Lady Macbeth",4
+"Riley","The Lost City of Z",3
+"Riley","A Ghost Story",2
+"Riley","The Big Sick",NULL
+"Riley","Baby Driver",NULL
+"Navin","Okja",5
+"Navin","Lady Macbeth",5
+"Navin","The Lost City of Z",5
+"Navin","A Ghost Story",NULL
+"Navin","The Big Sick",2
+"Navin","Baby Driver",2
